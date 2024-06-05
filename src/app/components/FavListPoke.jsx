@@ -8,7 +8,7 @@ function FavListPoke({ items, onDelete }) {
   return (
     <section className="grid sm:grid-cols-1 mt-4 md:grid-cols-3 lg:grid-cols-4 gap-2 ">
       {items.map((item) => (
-        <div className="flex flex-col items-center shadow-xl rounded-md bg-yellow-50">
+        <div key={item.id} className="flex flex-col items-center shadow-xl rounded-md bg-yellow-50">
           <img src={item.sprites?.other.home.front_default} />
           <h3 className="my-2 text-md font-medium">{item.name}</h3>
           <div className="flex space-x-1 ">
