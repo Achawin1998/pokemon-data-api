@@ -7,5 +7,5 @@
 
 🍒3. บันทึกข้อมูลลงใน localStorage🍒
 
-🍒[Go to Website](https://pokemon-data-api.vercel.app/)🍒
+🍒[Go to Website](https://pokemon-data-api.vercel.app/){:target="_blank"}🍒
 
