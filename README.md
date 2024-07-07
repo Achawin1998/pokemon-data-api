@@ -3,7 +3,9 @@
 
 🍒1. Fetch ข้อมูล Api ต่าง ๆ จากเว็ป [PokéAPI](https://pokeapi.co/)🍒
 
-🍒2. บันทึกข้อมูลต่าง ๆ ลงใน localStorage🍒
+🍒2. สามารถ search หาข้อมูลโปเกม่อนที่ต้องการได้ และมี ระบบ create/delete ข้อมูล🍒
 
-🍒3. [Go to Website](https://pokemon-data-api.vercel.app/)🍒
+🍒3. บันทึกข้อมูลลงใน localStorage🍒
+
+🍒[Go to Website](https://pokemon-data-api.vercel.app/)🍒
 
