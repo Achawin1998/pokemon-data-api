@@ -9,3 +9,4 @@
 
 🍒[Go to Website](https://pokemon-data-api.vercel.app/)🍒
 
+🍒[Go to Website](https://pokemon-data-api.vercel.app/){:target="_blank"}🍒
