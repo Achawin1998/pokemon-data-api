@@ -1,4 +1,4 @@
-<span style="font-size: 32px;">PokeMon Data Api</span>
+<span style="font-size: 32px;">PokeMon-App</span>
 <hr />
 
 🍒1. Fetch ข้อมูล Api ต่าง ๆ จากเว็ป [PokéAPI](https://pokeapi.co/)🍒
